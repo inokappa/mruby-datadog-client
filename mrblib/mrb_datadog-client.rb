@@ -1,6 +1,6 @@
 class DatadogClient
   def hello(data)
-    puts "Say " + data
+    uts "Say " + data
   end
 end
 
