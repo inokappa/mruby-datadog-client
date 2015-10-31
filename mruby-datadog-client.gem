@@ -1,0 +1,6 @@
+name: mruby-datadog-client
+description: datadog-client class
+author: Yohei Kawahara
+website: https://github.com/inokappa/mruby-datadog-client
+protocol: git
+repository: https://github.com/inokappa/mruby-datadog-client.git
