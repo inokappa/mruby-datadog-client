@@ -2,7 +2,7 @@
 ## datadog-client Test
 ##
 
-assert("Datadog::Client#hello") do
-  t = DatadogClient.new
-  assert_equal("Say hello", t.hello("hello"))
+assert("DatadogClient#hello") do
+  t = DatadogClient.new()
+  assert_equal("Say bye", t.hello("hello"))
 end
