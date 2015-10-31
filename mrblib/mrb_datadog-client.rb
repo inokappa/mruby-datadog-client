@@ -1,10 +1,8 @@
-class datadog-client
-
-  def bye
-    self.hello + " bye"
+class DatadogClient
+  def hello(data)
+    puts "Say " + data
   end
-
-  def foo
-  end
-
 end
+
+# h = DatadogClient.new()
+# h.hello("hello")
