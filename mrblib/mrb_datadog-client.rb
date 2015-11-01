@@ -8,5 +8,5 @@ class DatadogClient
   end
 end
 
-h = DatadogClient.new("hello")
-p h.hello
+#h = DatadogClient.new("hello")
+#p h.hello
